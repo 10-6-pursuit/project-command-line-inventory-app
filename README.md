@@ -35,7 +35,7 @@ In total, you must receive at least 70% to complete this project. For example, y
 1. A user can delete an item.
 1. A user can update an item.
 1. When a user performs an action like creating or deleting an item, the data file is updated correctly. If the JSON is malformed, there is some logic to prevent writing to the file and thus corrupting the data file.
-1. When a user creates an item a unique id is assigned to the new item.
+1. When a user creates an item a unique id is assigned to the new item. 
 1. Add a cart function where a user can add items to the shopping cart and see the total price and total number of each item
 1. Add a cancel cart function that empties the shopping cart.
 
